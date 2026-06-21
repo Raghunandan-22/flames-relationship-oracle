@@ -76,32 +76,5 @@ git clone https://github.com/Raghunandan-22/flames-relationship-oracle.git
 
 ---
 
-## 🎯 Future Improvements
 
-* Dark Mode
-* Sound Effects
-* Multiple Themes
-* Save Result History
-* Advanced Animations
-* PWA Support
-
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome.
-
----
-
-## 📜 License
-
-This project is open source and available under the MIT License.
-
----
-
-## 👨‍💻 Author
-
-Revanth Raghunandan
-
-GitHub: https://github.com/Raghunandan-22
 
